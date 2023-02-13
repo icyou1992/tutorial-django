@@ -1,0 +1,1 @@
+from reactdjango.models.moim import Moim
